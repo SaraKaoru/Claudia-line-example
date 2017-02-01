@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "lineTest-executor",
+    "name": "lineTest",
+    "region": "us-west-2"
+  },
+  "api": {
+    "id": "840biqgsb6",
+    "module": "index"
+  }
+}
